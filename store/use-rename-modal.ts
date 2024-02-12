@@ -19,5 +19,5 @@ export const useRenameModal = create<IRenameModal>((set) => ({
         isOpen: false,
         initialValues:defaultValues,
     }),
-    initialValues: defaultValues
+    initialValues: defaultValues,
 }));
