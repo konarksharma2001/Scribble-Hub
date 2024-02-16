@@ -1,6 +1,6 @@
-# Real-Time Miro Clone With Nextjs, React, Tailwind
+# Scribble Hub (Real-Time Whiteboard App)  With Nextjs, Tailwind
 
-![300551682-1f973316-0bf4-4fa0-b014-40bb9edc1942](https://github.com/konarksharma2001/Scribble-Hub/assets/87274294/097f6c4d-cc78-45a7-9df9-b630a945a1d8)
+![img](https://github.com/konarksharma2001/Scribble-Hub/assets/87274294/524e320c-5f08-46f5-b093-2b071b5b87e1)
 
 ## Features:
 
